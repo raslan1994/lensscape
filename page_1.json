@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "pageSize": 5,
+  "totalPages": 1,
+  "data": [
+    {
+      "id": "n_01",
+      "name": "nature",
+      "thumb": "https://fastly.picsum.photos/id/924/240/360.jpg?hmac=N75zZsKh3baqFbj9jv8pEs-1rDq4px5HFrgYSVi29uc",
+      "url": "https://fastly.picsum.photos/id/924/720/1080.jpg?hmac=c-S7UxGD_mJbUeGhUTwsGEdTNHj2ZDz-YCg2QSWcl60",
+      "res": "hd",
+      "lastUpdated": "2024-12-21T17:33:18Z"
+    },
+    {
+      "id": "b_01",
+      "name": "bridge",
+      "thumb": "https://fastly.picsum.photos/id/950/240/360.jpg?hmac=71p-EMqCjXW6-hpT-2TbcUusfYgRezUU5tE1P8TUpk0",
+      "url": "https://fastly.picsum.photos/id/950/720/1080.jpg?hmac=DsKg8en6mSxIK2_Q92ztV7y111l43Dy9axzLwNQETpU",
+      "res": "hd",
+      "lastUpdated": "2024-12-21T17:33:18Z"
+    },
+    {
+      "id": "h_01",
+      "name": "hills",
+      "thumb": "https://fastly.picsum.photos/id/702/240/360.jpg?hmac=TNmOUjAWGPjV6cwu6xSUuFrPz9Fu5xnHfoce1CxHHmY",
+      "url": "https://fastly.picsum.photos/id/702/720/1080.jpg?hmac=lAl5QYpJduHb6BaYL6Hgzt0gF40Uibt-K6-STaCiDP4",
+      "res": "hd",
+      "lastUpdated": "2024-12-21T17:33:18Z"
+    },
+    {
+      "id": "r_01",
+      "name": "road",
+      "thumb": "https://fastly.picsum.photos/id/519/240/360.jpg?hmac=3mklhvYsjUkfjwIVkSQGDo9D94mAHR5Alf878KmS-b0",
+      "url": "https://fastly.picsum.photos/id/519/720/1080.jpg?hmac=GDXmGqA3XON27FU0uBglQ5v8sXVFCJjzEyIZQHksdIo",
+      "res": "hd",
+      "lastUpdated": "2024-12-21T17:33:18Z"
+    },
+    {
+      "id": "b_02",
+      "name": "berry",
+      "thumb": "https://fastly.picsum.photos/id/429/240/360.jpg?hmac=Vkv81KgNuMWMYZ4WFADrocmHU8i7NR-54DxZxm5lxMk",
+      "url": "https://fastly.picsum.photos/id/429/720/1080.jpg?hmac=MHA4H45PVxywCkIyjxM8xPOtJqSKMMJJi5Bg2NURCkA",
+      "res": "hd",
+      "lastUpdated": "2024-12-21T17:33:18Z"
+    }
+  ]
+}
